@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-align: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-align: center;
+}
+.violet{
+    color: cyan;
+}
+#azul{ 
+    color: cyan;
+}
+div{
+    margin:50px;
+    padding:30px;
+    border: red solid 1px;
+}
+                .tartaruga{
+                width: 500px;
+                height: 350px;
+            border: red 0px;
+    
+}
+                .final{
+                width: 600px;
+                height: 400px;
+                border: red 0px;
+}
+
+
